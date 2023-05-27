@@ -43,11 +43,11 @@ export const sliderItems = [
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://www.vintageindustries.nl/download_front/evtbyq2222/22101_Clyde_pant_Olive.png",
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://www.vintageindustries.nl/download_front/ypqsle2230/1232_Gandor_shorts_Dark_Khaki.png",
     },
     {
       id:3,
@@ -55,7 +55,7 @@ export const sliderItems = [
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://www.vintageindustries.nl/download_front/qyuift1510/3013_Redstone_hooded_sweater_Black_2_.png",
     },
     {
       id:5,
@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://www.vintageindustries.nl/download_front/skfbmd2111/3546_Gray_T_shirt_Ocean_Blue.png",
     },
     {
       id:8,
